@@ -1,0 +1,30 @@
+body{
+  background-color: #DF9E54;
+  font-family: font-family: 'Oswald', sans-serif;
+color: #DF9E54;
+font-size: 12vh;
+line-height: 30px;
+
+}
+head{
+    font-family: 'Spectral SC', serif;
+    font-size: 20vh;
+    line-height: 40px;
+
+}
+header img{
+  width: 500px;
+  height: auto;
+  max-width: 100%;
+
+}
+a{
+  color: gold;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+h1,h2,h3{
+
+}
