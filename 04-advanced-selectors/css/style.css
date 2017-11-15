@@ -1,8 +1,8 @@
 body{
   background-color: #DF9E54;
   font-family:'Oswald', sans-serif;
-font-size: 12px;
-line-height: 20px;
+  font-size: 12px;
+  line-height: 20px;
 }
 header{
     font-family: 'Spectral SC', serif;
@@ -14,7 +14,7 @@ header img{
   width: 150px;
   height: auto;
   max-width: 100%;
-margin: auto;
+  margin: auto;
 }
 img{
   width: 110px;
@@ -49,7 +49,7 @@ border-radius: 2%;
 box-shadow: inset 0px -5px 0px black;
 margin: auto;
 margin-bottom: 5px;
-padding-bottom: 8px;
+padding-bottom: 0px;
 }
 #container1  a{
 font-size: 10px;
@@ -65,7 +65,7 @@ list-style: none;
 justify-content: center;
 padding-left: 66px;
 padding-right: 66px;
-margin: 10px;
+margin: 35px;
 
 
 }
